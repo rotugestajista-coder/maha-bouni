@@ -33,6 +33,7 @@
         display:flex;
         justify-content:space-between;
         padding:40px;
+        gap:30px;
     }
 
     .content{
@@ -54,7 +55,7 @@
     }
 
     .sidebar{
-        width:22%;
+        width:25%;
         background:#fff0f7;
         border:3px dashed #ff4f9a;
         border-radius:12px;
@@ -72,6 +73,11 @@
         color:#ff0066;
         text-decoration:none;
         font-weight:bold;
+        word-break:break-word;
+    }
+
+    .sidebar a:hover{
+        text-decoration:underline;
     }
 
     footer{
@@ -93,28 +99,38 @@
 <div class="container">
 
     <div class="content">
-        <h2>About Short Height</h2>
+        <h2>About Maha 😆</h2>
 
         <p>
-            People with short height are just as capable and talented as anyone else.<br><br>
-            Height does not determine intelligence, kindness, or success.<br><br>
-            Many successful athletes, actors, leaders, and entrepreneurs are shorter than average.<br><br>
-            Confidence and determination matter much more than physical height.<br><br>
-            Everyone deserves to be treated with respect regardless of how tall they are.<br><br>
-            Different body types make the world more diverse and interesting.<br><br>
-            Good character is always more important than appearance.<br><br>
-            Supporting and encouraging others helps build an inclusive community.<br><br>
-            Every person has unique strengths and abilities to contribute.<br><br>
-            True confidence comes from accepting yourself and respecting others.
+            Maha is only 4 feet tall, but her confidence is 8 feet high! 😂<br><br>
+
+            People say when she plays hide and seek, she doesn't even need to hide because she's already below everyone's eye level. 😆<br><br>
+
+            Kabhi kabhi log usay dekh kar kehte hain, "Aray bachi idhar kaise aa gayi?" aur phir pata chalta hai ke woh sab se bari hai. 😂<br><br>
+
+            Shelves uske liye Everest hain aur stool uska best friend hai.<br><br>
+
+            Group photo mein uski permanent VIP seat front row mein hoti hai, warna woh nazar hi nahi aati. 😅<br><br>
+
+            Kabhi kabhi doorbell tak pohanchne ke liye usay motivation speech chahiye hoti hai.<br><br>
+
+            Uski height choti ho sakti hai, lekin uski awaz aur attitude full-size edition hain. 😎<br><br>
+
+            Agar confidence ki height hoti, to Maha sab se lambi hoti.<br><br>
+
+            Choti height ka matlab sirf itna hai ke usay zyada hawa nahi lagti. 🤣<br><br>
+
+            Mazaq apni jagah, har insan apni personality aur confidence se pehchana jata hai, aur wohi sab se important baat hai. ❤️
         </p>
 
     </div>
 
     <div class="sidebar">
-        <h3>Your Link</h3>
+        <h3>Instagram</h3>
 
-        <!-- Replace the # with your link later -->
-        <a href="#">Paste Your Link Here</a>
+        <a href="https://www.instagram.com/_j_i_n_n_i/?utm_source=ig_web_button_share_sheet" target="_blank">
+            Visit Instagram Profile
+        </a>
 
     </div>
 
@@ -125,4 +141,4 @@
 </footer>
 
 </body>
-</html>
+</html>c
