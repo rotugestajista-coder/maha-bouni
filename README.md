@@ -142,12 +142,9 @@ header{
 <h2>About</h2>
 
 <p>
-Welcome! This is a simple website built with HTML and CSS and hosted on GitHub Pages.
-It demonstrates a clean pink theme with a responsive layout that works on both desktop
-and mobile devices. The profile picture on the right is clickable and will take you
-to the linked Instagram profile. This page can be customized further by adding more
-photos, sections, animations, or even a gallery. Feel free to personalize the text,
-colors, and layout to make it your own. Thank you for visiting, and have a wonderful day!
+<p>
+Being short comes with its own set of funny moments! 😂 Sometimes the top shelf looks like it's in another country, and asking someone to grab something becomes a daily superpower. Group photos almost always mean a guaranteed front-row VIP spot. Hoodies feel extra cozy because they're basically mini blankets, and finding legroom is never a problem. Friends might joke about height, but being short also means being quick, confident, and standing out in your own way. In the end, personality is always much bigger than height, and a good sense of humor is something everyone can appreciate. 😄
+</p>
 </p>
 
 </div>
