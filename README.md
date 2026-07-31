@@ -142,9 +142,16 @@ header{
 <h2>About</h2>
 
 <p>
-<p>
-Being short comes with its own set of funny moments! 😂 Sometimes the top shelf looks like it's in another country, and asking someone to grab something becomes a daily superpower. Group photos almost always mean a guaranteed front-row VIP spot. Hoodies feel extra cozy because they're basically mini blankets, and finding legroom is never a problem. Friends might joke about height, but being short also means being quick, confident, and standing out in your own way. In the end, personality is always much bigger than height, and a good sense of humor is something everyone can appreciate. 😄
-</p>
+Maha is only 4 feet tall, but her confidence is 8 feet high! 😂<br><br>
+People say when she plays hide and seek, she doesn't even need to hide because she's already below everyone's eye level. 😆<br><br>
+Kabhi kabhi log usay dekh kar kehte hain, "Aray bachi idhar kaise aa gayi?" aur phir pata chalta hai ke woh sab se bari hai. 😂<br><br>
+Shelves uske liye Everest hain aur stool uska best friend hai.<br><br>
+Group photo mein uski permanent VIP seat front row mein hoti hai, warna woh nazar hi nahi aati. 😅<br><br>
+Kabhi kabhi doorbell tak pohanchne ke liye usay motivation speech chahiye hoti hai.<br><br>
+Uski height choti ho sakti hai, lekin uski awaz aur attitude full-size edition hain. 😎<br><br>
+Agar confidence ki height hoti, to Maha sab se lambi hoti.<br><br>
+Choti height ka matlab sirf itna hai ke usay zyada hawa nahi lagti. 🤣<br><br>
+Mazaq apni jagah, har insan apni personality aur confidence se pehchana jata hai, aur wohi sab se important baat hai. ❤️
 </p>
 
 </div>
