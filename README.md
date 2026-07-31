@@ -5,7 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>MAHA bouni 4 feet</title>
+<title>Maha</title>
 
 <style>
 *{
@@ -27,18 +27,19 @@ header{
     padding:25px;
     font-size:36px;
     font-weight:bold;
+    box-shadow:0 4px 10px rgba(0,0,0,.15);
 }
 
 .container{
     display:flex;
-    justify-content:space-between;
-    align-items:flex-start;
-    padding:40px;
     gap:30px;
+    max-width:1200px;
+    margin:auto;
+    padding:40px;
 }
 
 .content{
-    width:70%;
+    flex:3;
 }
 
 .content h2{
@@ -47,37 +48,36 @@ header{
 }
 
 .content p{
-    font-size:18px;
-    line-height:1.8;
     background:white;
-    padding:20px;
-    border-radius:12px;
-    box-shadow:0 0 10px rgba(0,0,0,0.15);
+    padding:25px;
+    border-radius:15px;
+    line-height:1.8;
+    font-size:18px;
+    box-shadow:0 5px 15px rgba(0,0,0,.15);
 }
 
 .sidebar{
-    width:25%;
+    flex:1;
     background:#fff0f7;
-    border:3px dashed #ff4f9a;
     border-radius:15px;
     padding:20px;
     text-align:center;
-    box-shadow:0 0 15px rgba(255,79,154,0.3);
+    box-shadow:0 5px 15px rgba(0,0,0,.15);
 }
 
 .sidebar h3{
-    margin-bottom:20px;
     color:#b0005a;
+    margin-bottom:20px;
 }
 
 .profile-pic{
     width:180px;
     height:180px;
-    object-fit:cover;
     border-radius:50%;
+    object-fit:cover;
     border:5px solid #ff4f9a;
     box-shadow:0 0 20px hotpink;
-    transition:0.3s;
+    transition:.3s;
 }
 
 .profile-pic:hover{
@@ -88,70 +88,90 @@ header{
 .sidebar p{
     margin-top:15px;
     font-weight:bold;
-    color:#b0005a;
 }
 
 footer{
-    margin-top:30px;
-    text-align:center;
     background:#ff4f9a;
     color:white;
+    text-align:center;
     padding:15px;
+    margin-top:40px;
+}
+
+/* Mobile Responsive */
+
+@media(max-width:768px){
+
+header{
+    font-size:28px;
+}
+
+.container{
+    flex-direction:column;
+    padding:20px;
+}
+
+.content p{
+    font-size:17px;
+}
+
+.sidebar{
+    width:100%;
+}
+
+.profile-pic{
+    width:220px;
+    height:220px;
+}
+
 }
 </style>
 
 </head>
+
 <body>
 
 <header>
-    MAHA bouni 4 feet
+    Welcome to Maha's Page 💖
 </header>
 
 <div class="container">
 
-    <div class="content">
-        <h2>About Maha 😆</h2>
+<div class="content">
 
-        <p>
-            Maha is only 4 feet tall, but her confidence is 8 feet high! 😂<br><br>
+<h2>About</h2>
 
-            People say when she plays hide and seek, she doesn't even need to hide because she's already below everyone's eye level. 😆<br><br>
+<p>
+Welcome! This is a simple website built with HTML and CSS and hosted on GitHub Pages.
+It demonstrates a clean pink theme with a responsive layout that works on both desktop
+and mobile devices. The profile picture on the right is clickable and will take you
+to the linked Instagram profile. This page can be customized further by adding more
+photos, sections, animations, or even a gallery. Feel free to personalize the text,
+colors, and layout to make it your own. Thank you for visiting, and have a wonderful day!
+</p>
 
-            Kabhi kabhi log usay dekh kar kehte hain, "Aray bachi idhar kaise aa gayi?" aur phir pata chalta hai ke woh sab se bari hai. 😂<br><br>
+</div>
 
-            Shelves uske liye Everest hain aur stool uska best friend hai.<br><br>
+<div class="sidebar">
 
-            Group photo mein uski permanent VIP seat front row mein hoti hai, warna woh nazar hi nahi aati. 😅<br><br>
+<h3>Instagram 💖</h3>
 
-            Kabhi kabhi doorbell tak pohanchne ke liye usay motivation speech chahiye hoti hai.<br><br>
+<a href="https://www.instagram.com/_j_i_n_n_i/?utm_source=ig_web_button_share_sheet" target="_blank">
 
-            Uski height choti ho sakti hai, lekin uski awaz aur attitude full-size edition hain. 😎<br><br>
+<img src="6dea7653-fac8-4bd8-8db6-0923d7ce8531.png"
+class="profile-pic"
+alt="Profile Picture">
 
-            Agar confidence ki height hoti, to Maha sab se lambi hoti.<br><br>
+</a>
 
-            Choti height ka matlab sirf itna hai ke usay zyada hawa nahi lagti. 🤣<br><br>
+<p>Tap the picture to visit the profile 📸</p>
 
-            Mazaq apni jagah, har insan apni personality aur confidence se pehchana jata hai, aur wohi sab se important baat hai. ❤️
-        </p>
-    </div>
-
-    <div class="sidebar">
-        <h3>Instagram 💖</h3>
-
-        <a href="https://www.instagram.com/_j_i_n_n_i/?utm_source=ig_web_button_share_sheet" target="_blank">
-            <img src="0441611a-ddc0-4280-8120-e94cc0dd5a4f.png"
-                 alt="Instagram Profile"
-                 class="profile-pic">
-        </a>
-
-        <p>Click the picture to visit the Instagram profile 📸</p>
-
-    </div>
+</div>
 
 </div>
 
 <footer>
-    © 2026 MAHA bouni 4 feet
+Made with ❤️ using HTML & CSS
 </footer>
 
 </body>
